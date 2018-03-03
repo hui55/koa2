@@ -1,0 +1,23 @@
+{
+  "name": "koa2",
+  "version": "0.1.0",
+  "description": "",
+  "main": "promise-async.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hui55/koa2.git"
+  },
+  "author": "chenhui <chenhui2547@qianmi.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hui55/koa2/issues"
+  },
+  "homepage": "https://github.com/hui55/koa2#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "node-fetch": "^2.0.0"
+  }
+}
